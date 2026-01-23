@@ -35,3 +35,4 @@ class Rule2 extends Rule1{
 
 }
 
+
